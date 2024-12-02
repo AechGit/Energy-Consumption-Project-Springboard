@@ -20,8 +20,8 @@ class EnergyConsumptionApp:
         <style>
         /* Custom color palette */
         :root {
-            --primary-color: #95a5a6;      /* Gray color replacing blue */
-            --secondary-color: #3498db;    /* Blue color replacing red */
+            --primary-color: #95a5a6;      /* Gray  */
+            --secondary-color: #3498db;    /* Blue  */
             --background-color: #f4f6f7;   /* Light background color */
             --text-color: #2c3e50;         /* Dark text color */
             --off-white: #bdc3c7;           /* Gray color replacing off-white */
